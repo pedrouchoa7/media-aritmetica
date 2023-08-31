@@ -30,9 +30,9 @@ node .\index.js
 
 ## Demonstração
 
-![demonstracao](https://imgur.com/TyM7EMy)
+![demonstracao](https://imgur.com/TyM7EMy.png)
 
-![teste](https://imgur.com/ysGgAUw)
+![teste](https://imgur.com/ysGgAUw.png)
 
 
 ## Stack utilizada
